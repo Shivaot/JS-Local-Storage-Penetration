@@ -1,1 +1,1 @@
-# Javascript app to to do local storage interaction.
+# Javascript app to do local storage interaction.
